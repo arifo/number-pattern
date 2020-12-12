@@ -1,0 +1,123 @@
+{
+  "extends": [
+    "react-app",    
+    "plugin:@typescript-eslint/recommended",
+    "plugin:jest/recommended",
+    "prettier",
+    "prettier/react",
+    "prettier/@typescript-eslint",
+    "plugin:prettier/recommended"
+  ],
+  "plugins": ["react", "@typescript-eslint", "jest"],
+  "env": {
+    "browser": true,
+    "es6": true,
+    "jest": true
+  },
+  "globals": {
+    "Atomics": "readonly",
+    "SharedArrayBuffer": "readonly"
+  },
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "ecmaVersion": 2018,
+    "sourceType": "module",
+    "project": "./tsconfig.json"
+  },
+  "rules": {
+    // General    
+    "global-require": "off",
+    "linebreak-style": "off",
+    "object-curly-newline": "off",
+    "no-nested-ternary": "off",
+    "spaced-comment": "off",
+    "react/button-has-type": "off",
+    "react/no-array-index-key": "off",
+    "space-before-function-paren": [
+      "error",
+      { "anonymous": "never", "named": "never", "asyncArrow": "always" }
+    ],
+    "no-shadow": "off",
+    "no-unused-expressions": ["error", { "allowShortCircuit": true }],
+    "no-use-before-define": "off",
+    "no-empty": ["error", { "allowEmptyCatch": true }],
+    "lines-between-class-members": "off",
+    "no-param-reassign": "off",
+    "react/props-types": "off",
+    // Typescript rules
+    "@typescript-eslint/no-explicit-any": "error",
+    "@typescript-eslint/no-use-before-define": "off",
+    "@typescript-eslint/explicit-module-boundary-types": "off",
+    // "@typescript-eslint/explicit-function-return-type": [
+    //   "error",
+    //   { allowExpressions: false, allowTypedFunctionExpressions: true },
+    // ],
+    // "@typescript-eslint/member-delimiter-style": [
+    //   "error",
+    //   { multiline: { delimiter: "comma" }, singleline: { delimiter: "comma" } },
+    // ],
+    // React Plugin
+    // The following rules are made available via `eslint-plugin-react`.
+
+    "react/destructuring-assignment": ["warn", "always", { "ignoreClassFields": true }],
+    "react/jsx-one-expression-per-line": "off",
+    "react/prefer-stateless-function": "warn",
+    "react/jsx-filename-extension": "off",
+    "react/prop-types": "off",
+    "react/jsx-props-no-spreading": "off",
+    // React-Hooks Plugin
+    // The following rules are made available via `eslint-plugin-react-hooks`
+    "react-hooks/rules-of-hooks": "error",
+    "react-hooks/exhaustive-deps": "off",    
+    "react/require-default-props":"off",
+
+    // jsx-a11y
+    "jsx-a11y/no-static-element-interactions": "off",
+    "jsx-a11y/click-events-have-key-events": "off",
+
+    // Import & Import Sort Rules
+
+    // "simple-import-sort/sort": "error",
+  //   "sort-imports": ["error", {
+  //     "ignoreCase": false,
+  //     "ignoreDeclarationSort": false,
+  //     "ignoreMemberSort": false,
+  //     "memberSyntaxSortOrder": ["none", "all", "multiple", "single"]
+  // }],
+    "import/order": [
+      "error", {
+          "alphabetize": {"order": "asc", "caseInsensitive": true},
+          "groups": ["builtin", "external", "internal", "unknown", "parent", "sibling", "index"],
+          "newlines-between": "always-and-inside-groups"    
+        }
+    ],
+    "import/first": "error",
+    "import/newline-after-import": "error",
+    "import/no-unresolved": ["error", { "caseSensitive": false }],
+    "import/prefer-default-export": "off",
+    "prettier/prettier": [
+      "error",
+      {
+        "endOfLine": "auto"
+      }
+    ]
+  },
+  "settings": {
+    "react": {
+      "version": "detect"
+    },
+    "import/extensions": [".js", ".jsx", ".ts", ".tsx"],
+    "import/parsers": {
+      "@typescript-eslint/parser": [".ts", ".tsx"]
+    },
+    "import/resolver": {
+      "babel-module": {},
+      "typescript": {
+        "alwaysTryTypes": true
+      }
+    }
+  }
+}

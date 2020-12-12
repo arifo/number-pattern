@@ -1,0 +1,2056 @@
+﻿{
+    "Sheet1": [
+        {
+            "pattern": "XXXXXX",
+            "example": "000000",
+            "price": "$499",
+            "tier": "1"
+        },
+        {
+            "pattern": "00000X ",
+            "example": "000001",
+            "price": "$489",
+            "tier": "2"
+        },
+        {
+            "pattern": "11111X",
+            "example": "111110",
+            "price": "$489",
+            "tier": "2"
+        },
+        {
+            "pattern": "22222X",
+            "example": "222220",
+            "price": "$489",
+            "tier": "2"
+        },
+        {
+            "pattern": "33333X",
+            "example": "333330",
+            "price": "$489",
+            "tier": "2"
+        },
+        {
+            "pattern": "44444X",
+            "example": "444440",
+            "price": "$489",
+            "tier": "2"
+        },
+        {
+            "pattern": "55555X",
+            "example": "555550",
+            "price": "$489",
+            "tier": "2"
+        },
+        {
+            "pattern": "66666X",
+            "example": "666660",
+            "price": "$489",
+            "tier": "2"
+        },
+        {
+            "pattern": "77777X",
+            "example": "777770",
+            "price": "$489",
+            "tier": "2"
+        },
+        {
+            "pattern": "88888X",
+            "example": "888880",
+            "price": "$489",
+            "tier": "2"
+        },
+        {
+            "pattern": "99999X",
+            "example": "999990",
+            "price": "$489",
+            "tier": "2"
+        },
+        {
+            "pattern": "0000X0",
+            "example": "000010",
+            "price": "$429",
+            "tier": "4"
+        },
+        {
+            "pattern": "1111X1",
+            "example": "111101",
+            "price": "$429",
+            "tier": "4"
+        },
+        {
+            "pattern": "2222X2",
+            "example": "222202",
+            "price": "$429",
+            "tier": "4"
+        },
+        {
+            "pattern": "3333X3",
+            "example": "333303",
+            "price": "$429",
+            "tier": "4"
+        },
+        {
+            "pattern": "4444X4",
+            "example": "444404",
+            "price": "$429",
+            "tier": "4"
+        },
+        {
+            "pattern": "5555X5",
+            "example": "555505",
+            "price": "$429",
+            "tier": "4"
+        },
+        {
+            "pattern": "6666X6",
+            "example": "666606",
+            "price": "$429",
+            "tier": "4"
+        },
+        {
+            "pattern": "7777X7",
+            "example": "777707",
+            "price": "$429",
+            "tier": "4"
+        },
+        {
+            "pattern": "8888X8",
+            "example": "888808",
+            "price": "$429",
+            "tier": "4"
+        },
+        {
+            "pattern": "9999X9",
+            "example": "999909",
+            "price": "$429",
+            "tier": "4"
+        },
+        {
+            "pattern": "000X00",
+            "example": "000100",
+            "price": "$399",
+            "tier": "5"
+        },
+        {
+            "pattern": "111X11",
+            "example": "111011",
+            "price": "$399",
+            "tier": "5"
+        },
+        {
+            "pattern": "222X22",
+            "example": "222022",
+            "price": "$399",
+            "tier": "5"
+        },
+        {
+            "pattern": "333X33",
+            "example": "333033",
+            "price": "$399",
+            "tier": "5"
+        },
+        {
+            "pattern": "444X44",
+            "example": "444044",
+            "price": "$399",
+            "tier": "5"
+        },
+        {
+            "pattern": "555X55",
+            "example": "555055",
+            "price": "$399",
+            "tier": "5"
+        },
+        {
+            "pattern": "666X66",
+            "example": "666066",
+            "price": "$399",
+            "tier": "5"
+        },
+        {
+            "pattern": "777X77",
+            "example": "777077",
+            "price": "$399",
+            "tier": "5"
+        },
+        {
+            "pattern": "888X88",
+            "example": "888088",
+            "price": "$399",
+            "tier": "5"
+        },
+        {
+            "pattern": "999X99",
+            "example": "999099",
+            "price": "$399",
+            "tier": "5"
+        },
+        {
+            "pattern": "00X000",
+            "example": "001000",
+            "price": "$399",
+            "tier": "5"
+        },
+        {
+            "pattern": "11X111",
+            "example": "110111",
+            "price": "$399",
+            "tier": "5"
+        },
+        {
+            "pattern": "22X222",
+            "example": "220222",
+            "price": "$399",
+            "tier": "5"
+        },
+        {
+            "pattern": "33X333",
+            "example": "330333",
+            "price": "$399",
+            "tier": "5"
+        },
+        {
+            "pattern": "44X444",
+            "example": "440444",
+            "price": "$399",
+            "tier": "5"
+        },
+        {
+            "pattern": "55X555",
+            "example": "550555",
+            "price": "$399",
+            "tier": "5"
+        },
+        {
+            "pattern": "66X666",
+            "example": "660666",
+            "price": "$399",
+            "tier": "5"
+        },
+        {
+            "pattern": "77X777",
+            "example": "770777",
+            "price": "$399",
+            "tier": "5"
+        },
+        {
+            "pattern": "88X888",
+            "example": "880888",
+            "price": "$399",
+            "tier": "5"
+        },
+        {
+            "pattern": "99X999",
+            "example": "990999",
+            "price": "$399",
+            "tier": "5"
+        },
+        {
+            "pattern": "0X0000",
+            "example": "010000",
+            "price": "$399",
+            "tier": "5"
+        },
+        {
+            "pattern": "1X1111",
+            "example": "101111",
+            "price": "$399",
+            "tier": "5"
+        },
+        {
+            "pattern": "2X2222",
+            "example": "202222",
+            "price": "$399",
+            "tier": "5"
+        },
+        {
+            "pattern": "3X3333",
+            "example": "303333",
+            "price": "$399",
+            "tier": "5"
+        },
+        {
+            "pattern": "4X4444",
+            "example": "404444",
+            "price": "$399",
+            "tier": "5"
+        },
+        {
+            "pattern": "5X5555",
+            "example": "505555",
+            "price": "$399",
+            "tier": "5"
+        },
+        {
+            "pattern": "6X6666",
+            "example": "606666",
+            "price": "$399",
+            "tier": "5"
+        },
+        {
+            "pattern": "7X7777",
+            "example": "707777",
+            "price": "$399",
+            "tier": "5"
+        },
+        {
+            "pattern": "8X8888",
+            "example": "808888",
+            "price": "$399",
+            "tier": "5"
+        },
+        {
+            "pattern": "9X9999",
+            "example": "909999",
+            "price": "$399",
+            "tier": "5"
+        },
+        {
+            "pattern": "X00000",
+            "example": "100000",
+            "price": "$489",
+            "tier": "2"
+        },
+        {
+            "pattern": "X11111",
+            "example": "011111",
+            "price": "$489",
+            "tier": "2"
+        },
+        {
+            "pattern": "X22222",
+            "example": "022222",
+            "price": "$489",
+            "tier": "2"
+        },
+        {
+            "pattern": "X33333",
+            "example": "033333",
+            "price": "$489",
+            "tier": "2"
+        },
+        {
+            "pattern": "X44444",
+            "example": "044444",
+            "price": "$489",
+            "tier": "2"
+        },
+        {
+            "pattern": "X55555",
+            "example": "055555",
+            "price": "$489",
+            "tier": "2"
+        },
+        {
+            "pattern": "X66666",
+            "example": "066666",
+            "price": "$489",
+            "tier": "2"
+        },
+        {
+            "pattern": "X77777",
+            "example": "077777",
+            "price": "$489",
+            "tier": "2"
+        },
+        {
+            "pattern": "X88888",
+            "example": "088888",
+            "price": "$489",
+            "tier": "2"
+        },
+        {
+            "pattern": "X99999",
+            "example": "099999",
+            "price": "$489",
+            "tier": "2"
+        },
+        {
+            "pattern": "0000XX",
+            "example": "000011",
+            "price": "$429",
+            "tier": "4"
+        },
+        {
+            "pattern": "1111XX",
+            "example": "111100",
+            "price": "$429",
+            "tier": "4"
+        },
+        {
+            "pattern": "2222XX",
+            "example": "222200",
+            "price": "$429",
+            "tier": "4"
+        },
+        {
+            "pattern": "3333XX",
+            "example": "333300",
+            "price": "$429",
+            "tier": "4"
+        },
+        {
+            "pattern": "4444XX",
+            "example": "444400",
+            "price": "$429",
+            "tier": "4"
+        },
+        {
+            "pattern": "5555XX",
+            "example": "555500",
+            "price": "$429",
+            "tier": "4"
+        },
+        {
+            "pattern": "6666XX",
+            "example": "666600",
+            "price": "$429",
+            "tier": "4"
+        },
+        {
+            "pattern": "7777XX",
+            "example": "777700",
+            "price": "$429",
+            "tier": "4"
+        },
+        {
+            "pattern": "8888XX",
+            "example": "888800",
+            "price": "$429",
+            "tier": "4"
+        },
+        {
+            "pattern": "9999XX",
+            "example": "999900",
+            "price": "$429",
+            "tier": "4"
+        },
+        {
+            "pattern": "000XXX",
+            "example": "000111",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "111XXX",
+            "example": "111000",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "222XXX",
+            "example": "222000",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "333XXX",
+            "example": "333000",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "444XXX",
+            "example": "444000",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "555XXX",
+            "example": "555000",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "666XXX",
+            "example": "666000",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "777XXX",
+            "example": "777000",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "888XXX",
+            "example": "888000",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "999XXX",
+            "example": "999000",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "00XXXX",
+            "example": "001111",
+            "price": "$429",
+            "tier": "4"
+        },
+        {
+            "pattern": "11XXXX",
+            "example": "110000",
+            "price": "$429",
+            "tier": "4"
+        },
+        {
+            "pattern": "22XXXX",
+            "example": "220000",
+            "price": "$429",
+            "tier": "4"
+        },
+        {
+            "pattern": "33XXXX",
+            "example": "330000",
+            "price": "$429",
+            "tier": "4"
+        },
+        {
+            "pattern": "44XXXX",
+            "example": "440000",
+            "price": "$429",
+            "tier": "4"
+        },
+        {
+            "pattern": "55XXXX",
+            "example": "550000",
+            "price": "$429",
+            "tier": "4"
+        },
+        {
+            "pattern": "66XXXX",
+            "example": "660000",
+            "price": "$429",
+            "tier": "4"
+        },
+        {
+            "pattern": "77XXXX",
+            "example": "770000",
+            "price": "$429",
+            "tier": "4"
+        },
+        {
+            "pattern": "88XXXX",
+            "example": "880000",
+            "price": "$429",
+            "tier": "4"
+        },
+        {
+            "pattern": "99XXXX",
+            "example": "990000",
+            "price": "$429",
+            "tier": "4"
+        },
+        {
+            "pattern": "00X00X",
+            "example": "001001",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "0X0X0X",
+            "example": "010101",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "0XX0XX",
+            "example": "011011",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "1X1X1X",
+            "example": "121212",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "1XX1XX",
+            "example": "122122",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "2X2X2X",
+            "example": "212121",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "2XX2XX",
+            "example": "211211",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "3X3X3X",
+            "example": "313131",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "3XX3XX",
+            "example": "311311",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "4X4X4X",
+            "example": "414141",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "4XX4XX",
+            "example": "411411",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "5X5X5X",
+            "example": "515151",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "5XX5XX",
+            "example": "511511",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "6X6X6X",
+            "example": "616161",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "6XX6XX",
+            "example": "611611",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "7X7X7X",
+            "example": "717171",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "7XX7XX",
+            "example": "711711",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "8X8X8X",
+            "example": "818181",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "8XX8XX",
+            "example": "811811",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "9X9X9X",
+            "example": "919191",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "9XX9XX",
+            "example": "911911",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "X0000X",
+            "example": "100001",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "X00X00",
+            "example": "100100",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "X0X0X0",
+            "example": "101010",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "X1111X",
+            "example": "011110",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "X2222X",
+            "example": "022220",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "X3333X",
+            "example": "033330",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "X4444X",
+            "example": "044440",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "X5555X",
+            "example": "055550",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "X6666X",
+            "example": "066660",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "X7777X",
+            "example": "077770",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "X8888X",
+            "example": "088880",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "X9999X",
+            "example": "099990",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "XX00XX",
+            "example": "110011",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "XX11XX",
+            "example": "001100",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "XX22XX",
+            "example": "002200",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "XX33XX",
+            "example": "003300",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "XX44XX",
+            "example": "004400",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "XX55XX",
+            "example": "005500",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "XX66XX",
+            "example": "006600",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "XX77XX",
+            "example": "007700",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "XX88XX",
+            "example": "008800",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "XX99XX",
+            "example": "009900",
+            "price": "$439",
+            "tier": "3"
+        },
+        {
+            "pattern": "0X00X0",
+            "example": "010010",
+            "price": "$369",
+            "tier": "6"
+        },
+        {
+            "pattern": "1X11X1",
+            "example": "121121",
+            "price": "$369",
+            "tier": "6"
+        },
+        {
+            "pattern": "2X22X2",
+            "example": "212212",
+            "price": "$369",
+            "tier": "6"
+        },
+        {
+            "pattern": "3X33X3",
+            "example": "313313",
+            "price": "$369",
+            "tier": "6"
+        },
+        {
+            "pattern": "4X44X4",
+            "example": "414414",
+            "price": "$369",
+            "tier": "6"
+        },
+        {
+            "pattern": "5X55X5",
+            "example": "515515",
+            "price": "$369",
+            "tier": "6"
+        },
+        {
+            "pattern": "6X66X6",
+            "example": "616616",
+            "price": "$369",
+            "tier": "6"
+        },
+        {
+            "pattern": "7X77X7",
+            "example": "717717",
+            "price": "$369",
+            "tier": "6"
+        },
+        {
+            "pattern": "8X88X8",
+            "example": "818818",
+            "price": "$369",
+            "tier": "6"
+        },
+        {
+            "pattern": "9X99X9",
+            "example": "919919",
+            "price": "$369",
+            "tier": "6"
+        },
+        {
+            "pattern": "X0XX0X",
+            "example": "101101",
+            "price": "$369",
+            "tier": "6"
+        },
+        {
+            "pattern": "000X0X",
+            "example": "000101",
+            "price": "$339",
+            "tier": "6"
+        },
+        {
+            "pattern": "X0X000",
+            "example": "101000",
+            "price": "$339",
+            "tier": "7"
+        },
+        {
+            "pattern": "X0XX00",
+            "example": "101100",
+            "price": "$339",
+            "tier": "7"
+        },
+        {
+            "pattern": "00XXX0",
+            "example": "001110",
+            "price": "$329",
+            "tier": "7"
+        },
+        {
+            "pattern": "0XXX00",
+            "example": "011100",
+            "price": "$329",
+            "tier": "7"
+        },
+        {
+            "pattern": "11X11X",
+            "example": "110110",
+            "price": "$329",
+            "tier": "7"
+        },
+        {
+            "pattern": "11XXX1",
+            "example": "110001",
+            "price": "$329",
+            "tier": "7"
+        },
+        {
+            "pattern": "1XXX11",
+            "example": "100011",
+            "price": "$329",
+            "tier": "7"
+        },
+        {
+            "pattern": "22X22X",
+            "example": "220220",
+            "price": "$329",
+            "tier": "7"
+        },
+        {
+            "pattern": "22XXX2",
+            "example": "220002",
+            "price": "$329",
+            "tier": "7"
+        },
+        {
+            "pattern": "2XXX22",
+            "example": "200022",
+            "price": "$329",
+            "tier": "7"
+        },
+        {
+            "pattern": "33X33X",
+            "example": "330330",
+            "price": "$329",
+            "tier": "7"
+        },
+        {
+            "pattern": "33XXX3",
+            "example": "330003",
+            "price": "$329",
+            "tier": "7"
+        },
+        {
+            "pattern": "3XXX33",
+            "example": "300033",
+            "price": "$329",
+            "tier": "7"
+        },
+        {
+            "pattern": "44X44X",
+            "example": "440440",
+            "price": "$329",
+            "tier": "7"
+        },
+        {
+            "pattern": "44XXX4",
+            "example": "440004",
+            "price": "$329",
+            "tier": "7"
+        },
+        {
+            "pattern": "4XXX44",
+            "example": "400044",
+            "price": "$329",
+            "tier": "7"
+        },
+        {
+            "pattern": "55X55X",
+            "example": "550550",
+            "price": "$329",
+            "tier": "7"
+        },
+        {
+            "pattern": "55XXX5",
+            "example": "550005",
+            "price": "$329",
+            "tier": "7"
+        },
+        {
+            "pattern": "5XXX55",
+            "example": "500055",
+            "price": "$329",
+            "tier": "7"
+        },
+        {
+            "pattern": "66X66X",
+            "example": "660660",
+            "price": "$329",
+            "tier": "7"
+        },
+        {
+            "pattern": "66XXX6",
+            "example": "660006",
+            "price": "$329",
+            "tier": "7"
+        },
+        {
+            "pattern": "6XXX66",
+            "example": "600066",
+            "price": "$329",
+            "tier": "7"
+        },
+        {
+            "pattern": "77X77X",
+            "example": "770770",
+            "price": "$329",
+            "tier": "7"
+        },
+        {
+            "pattern": "77XXX7",
+            "example": "770007",
+            "price": "$329",
+            "tier": "7"
+        },
+        {
+            "pattern": "7XXX77",
+            "example": "700077",
+            "price": "$329",
+            "tier": "7"
+        },
+        {
+            "pattern": "88X88X",
+            "example": "880880",
+            "price": "$329",
+            "tier": "7"
+        },
+        {
+            "pattern": "88XXX8",
+            "example": "880008",
+            "price": "$329",
+            "tier": "7"
+        },
+        {
+            "pattern": "8XXX88",
+            "example": "800088",
+            "price": "$329",
+            "tier": "7"
+        },
+        {
+            "pattern": "99X99X",
+            "example": "990990",
+            "price": "$329",
+            "tier": "7"
+        },
+        {
+            "pattern": "99XXX9",
+            "example": "990009",
+            "price": "$329",
+            "tier": "7"
+        },
+        {
+            "pattern": "9XXX99",
+            "example": "900099",
+            "price": "$329",
+            "tier": "7"
+        },
+        {
+            "pattern": "00X0X0",
+            "example": "001010",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "00X0XX",
+            "example": "001011",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "00XX0X",
+            "example": "001101",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "0X00XX",
+            "example": "010011",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "0X0X00",
+            "example": "010100",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "0X0XX0",
+            "example": "010110",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "0XX000",
+            "example": "011000",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "0XX00X",
+            "example": "011001",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "11X1X1",
+            "example": "110101",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "11X1XX",
+            "example": "110100",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "11XX1X",
+            "example": "110010",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "1X11XX",
+            "example": "121122",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "1X1X11",
+            "example": "101011",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "1XX111",
+            "example": "100111",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "1XX11X",
+            "example": "100110",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "22X2X2",
+            "example": "220202",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "22X2XX",
+            "example": "220200",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "22XX2X",
+            "example": "220020",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "2X22XX",
+            "example": "212211",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "2X2X22",
+            "example": "202022",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "2X2XX2",
+            "example": "202002",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "2XX222",
+            "example": "200222",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "2XX22X",
+            "example": "200220",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "33X3X3",
+            "example": "330303",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "33X3XX",
+            "example": "330300",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "33XX3X",
+            "example": "330030",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "3X33XX",
+            "example": "313311",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "3X3X33",
+            "example": "303033",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "3X3XX3",
+            "example": "303003",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "3XX333",
+            "example": "300333",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "3XX33X",
+            "example": "300330",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "44X4X4",
+            "example": "440404",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "44X4XX",
+            "example": "440400",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "44XX4X",
+            "example": "440040",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "4X44XX",
+            "example": "414411",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "4X4X44",
+            "example": "404044",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "4X4XX4",
+            "example": "404004",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "4XX444",
+            "example": "400444",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "4XX44X",
+            "example": "400440",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "55X5X5",
+            "example": "550505",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "55X5XX",
+            "example": "550500",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "55XX5X",
+            "example": "550050",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "5X55XX",
+            "example": "515511",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "5X5X55",
+            "example": "505055",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "5X5XX5",
+            "example": "505005",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "5XX555",
+            "example": "500555",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "5XX55X",
+            "example": "500550",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "66X6X6",
+            "example": "660606",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "66X6XX",
+            "example": "660600",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "66XX6X",
+            "example": "660060",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "6X66XX",
+            "example": "616611",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "6X6X66",
+            "example": "606066",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "6X6XX6",
+            "example": "606006",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "6XX666",
+            "example": "600666",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "6XX66X",
+            "example": "600660",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "77X7X7",
+            "example": "770707",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "77X7XX",
+            "example": "770700",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "77XX7X",
+            "example": "770070",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "7X77XX",
+            "example": "717711",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "7X7X77",
+            "example": "707077",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "7X7XX7",
+            "example": "707007",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "7XX777",
+            "example": "700777",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "7XX77X",
+            "example": "700770",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "88X8X8",
+            "example": "880808",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "88X8XX",
+            "example": "880800",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "88XX8X",
+            "example": "880080",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "8X88XX",
+            "example": "818811",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "8X8X88",
+            "example": "808088",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "8X8XX8",
+            "example": "808008",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "8XX888",
+            "example": "800888",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "8XX88X",
+            "example": "800880",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "99X9X9",
+            "example": "990909",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "99X9XX",
+            "example": "990900",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "99XX9X",
+            "example": "990090",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "9X99XX",
+            "example": "919911",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "9X9X99",
+            "example": "909099",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "9X9XX9",
+            "example": "909009",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "9XX999",
+            "example": "900999",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "9XX99X",
+            "example": "900990",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "XXX00X",
+            "example": "111001",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "XXX11X",
+            "example": "000110",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "XXX22X",
+            "example": "000220",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "XXX33X",
+            "example": "000330",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "XXX44X",
+            "example": "000440",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "XXX55X",
+            "example": "000550",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "XXX66X",
+            "example": "000660",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "XXX77X",
+            "example": "000770",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "XXX88X",
+            "example": "000880",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "XXX99X",
+            "example": "000990",
+            "price": "$299",
+            "tier": "8"
+        },
+        {
+            "pattern": "0X000X",
+            "example": "010001",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "0X0XXX",
+            "example": "010111",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "0XXX0X",
+            "example": "011101",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "111X1X",
+            "example": "111010",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "1X111X",
+            "example": "101110",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "1X1XXX",
+            "example": "121222",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "1XXX1X",
+            "example": "100010",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "222X2X",
+            "example": "222020",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "2X222X",
+            "example": "202220",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "2X2XXX",
+            "example": "212111",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "2XXX2X",
+            "example": "200020",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "333X3X",
+            "example": "333030",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "3X333X",
+            "example": "303330",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "3X3XXX",
+            "example": "313111",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "3XXX3X",
+            "example": "300030",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "444X4X",
+            "example": "444040",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "4X444X",
+            "example": "404440",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "4X4XXX",
+            "example": "414111",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "4XXX4X",
+            "example": "400040",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "555X5X",
+            "example": "555050",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "5X555X",
+            "example": "505550",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "5X5XXX",
+            "example": "515111",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "5XXX5X",
+            "example": "500050",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "666X6X",
+            "example": "666060",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "6X666X",
+            "example": "606660",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "6X6XXX",
+            "example": "616111",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "6XXX6X",
+            "example": "600060",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "777X7X",
+            "example": "777070",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "7X777X",
+            "example": "707770",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "7X7XXX",
+            "example": "717111",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "7XXX7X",
+            "example": "700070",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "888X8X",
+            "example": "888080",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "8X888X",
+            "example": "808880",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "8X8XXX",
+            "example": "818111",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "8XXX8X",
+            "example": "800080",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "999X9X",
+            "example": "999090",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "9X999X",
+            "example": "909990",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "9X9XXX",
+            "example": "919111",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "9XXX9X",
+            "example": "900090",
+            "price": "$269",
+            "tier": "9"
+        },
+        {
+            "pattern": "0XX0X0",
+            "example": "011010",
+            "price": "$249",
+            "tier": "10"
+        },
+        {
+            "pattern": "1X1XX1",
+            "example": "101001",
+            "price": "$249",
+            "tier": "10"
+        },
+        {
+            "pattern": "1XX1X1",
+            "example": "100101",
+            "price": "$249",
+            "tier": "10"
+        },
+        {
+            "pattern": "2XX2X2",
+            "example": "200202",
+            "price": "$249",
+            "tier": "10"
+        },
+        {
+            "pattern": "3XX3X3",
+            "example": "300303",
+            "price": "$249",
+            "tier": "10"
+        },
+        {
+            "pattern": "4XX4X4",
+            "example": "400404",
+            "price": "$249",
+            "tier": "10"
+        },
+        {
+            "pattern": "5XX5X5",
+            "example": "500505",
+            "price": "$249",
+            "tier": "10"
+        },
+        {
+            "pattern": "6XX6X6",
+            "example": "600606",
+            "price": "$249",
+            "tier": "10"
+        },
+        {
+            "pattern": "7XX7X7",
+            "example": "700707",
+            "price": "$249",
+            "tier": "10"
+        },
+        {
+            "pattern": "8XX8X8",
+            "example": "800808",
+            "price": "$249",
+            "tier": "10"
+        },
+        {
+            "pattern": "9XX9X9",
+            "example": "900909",
+            "price": "$249",
+            "tier": "10"
+        },
+        {
+            "pattern": "X0000Y",
+            "example": "100002",
+            "price": "$239",
+            "tier": "11"
+        },
+        {
+            "pattern": "Y0XX0Y",
+            "example": "102201",
+            "price": "$239",
+            "tier": "11"
+        },
+        {
+            "pattern": "00Y00X",
+            "example": "002001",
+            "price": "$229",
+            "tier": "12"
+        },
+        {
+            "pattern": "X00Y00",
+            "example": "100200",
+            "price": "$229",
+            "tier": "12"
+        },
+        {
+            "pattern": "XXYYZZ",
+            "example": "110022",
+            "price": "$229",
+            "tier": "12"
+        },
+        {
+            "pattern": "000Y0X",
+            "example": "000201",
+            "price": "$199",
+            "tier": "13"
+        },
+        {
+            "pattern": "0X000Y",
+            "example": "010002",
+            "price": "$199",
+            "tier": "13"
+        },
+        {
+            "pattern": "0Y0X0X",
+            "example": "020201",
+            "price": "$199",
+            "tier": "13"
+        },
+        {
+            "pattern": "X0Y000",
+            "example": "102000",
+            "price": "$199",
+            "tier": "13"
+        },
+        {
+            "pattern": "XYYYYZ",
+            "example": "011112",
+            "price": "$199",
+            "tier": "13"
+        },
+        {
+            "pattern": "Y000X0",
+            "example": "200010",
+            "price": "$199",
+            "tier": "13"
+        },
+        {
+            "pattern": "Y0X0X0",
+            "example": "102020",
+            "price": "$199",
+            "tier": "13"
+        },
+        {
+            "pattern": "ZYYYYX",
+            "example": "122220",
+            "price": "$199",
+            "tier": "13"
+        },
+        {
+            "pattern": "XYZXYZ",
+            "example": "123123",
+            "price": "$129",
+            "tier": "14"
+        },
+        {
+            "pattern": "000XYZ",
+            "example": "000123",
+            "price": "$99",
+            "tier": "15"
+        },
+        {
+            "pattern": "000ZYX",
+            "example": "000987",
+            "price": "$99",
+            "tier": "15"
+        },
+        {
+            "pattern": "00WXYZ",
+            "example": "001234",
+            "price": "$99",
+            "tier": "15"
+        },
+        {
+            "pattern": "00ZYXW",
+            "example": "009876",
+            "price": "$99",
+            "tier": "15"
+        },
+        {
+            "pattern": "0YXXXX",
+            "example": "021111",
+            "price": "$99",
+            "tier": "15"
+        },
+        {
+            "pattern": "UVWXYZ",
+            "example": "012345",
+            "price": "$99",
+            "tier": "15"
+        },
+        {
+            "pattern": "X0YYYY",
+            "example": "102222",
+            "price": "$99",
+            "tier": "15"
+        },
+        {
+            "pattern": "XXXXY0",
+            "example": "111120",
+            "price": "$99",
+            "tier": "15"
+        },
+        {
+            "pattern": "XXXXYZ",
+            "example": "111123",
+            "price": "$99",
+            "tier": "15"
+        },
+        {
+            "pattern": "XYZZZZ",
+            "example": "120000",
+            "price": "$99",
+            "tier": "15"
+        },
+        {
+            "pattern": "YYYY0X",
+            "example": "222201",
+            "price": "$99",
+            "tier": "15"
+        },
+        {
+            "pattern": "ZYXWVU",
+            "example": "987654",
+            "price": "$99",
+            "tier": "15"
+        }
+    ]
+}

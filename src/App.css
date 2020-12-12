@@ -1,5 +1,19 @@
 .App {
   text-align: center;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+p {
+  font-size: medium;
+  color: rgb(250, 71, 71);
+}
+
+input {
+  margin: 15px 0;
 }
 
 .App-logo {
